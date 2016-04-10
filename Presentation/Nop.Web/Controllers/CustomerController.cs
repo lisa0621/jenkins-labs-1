@@ -91,7 +91,6 @@ namespace Nop.Web.Controllers
 
         #endregion
 
-        
         #region Ctor
 
         public CustomerController(IAuthenticationService authenticationService,
