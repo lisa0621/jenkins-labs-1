@@ -90,6 +90,7 @@ namespace Nop.Web.Controllers
         private readonly StoreInformationSettings _storeInformationSettings;
 
         #endregion
+
         
         #region Ctor
 
